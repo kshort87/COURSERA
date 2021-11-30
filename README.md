@@ -1,2 +1,2 @@
-# NFT
-Place to store possible NFT projects
+# COURSEA
+Place to store possible COURSERA projects
